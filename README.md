@@ -5,7 +5,7 @@ It demonstrates an **end-to-end minimal pipeline** for an **ADGM-compliant corpo
 
 ---
 
-## 📦 What's Included
+##  What's Included
 
 ### **Source Code & Scripts**
 - **`streamlit_app.py`**  
@@ -36,7 +36,7 @@ It demonstrates an **end-to-end minimal pipeline** for an **ADGM-compliant corpo
 
 ---
 
-## 🚀 Local Installation & Running
+##  Local Installation & Running
 
 ### 1. Install Python
 Ensure **Python 3.10+** is installed:
@@ -79,7 +79,7 @@ Access the app at: [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## 🖥 Usage Guide
+##  Usage Guide
 
 1. **Upload a Document** (`.docx` format only).  
 2. **Run Checks** — Backend will:
@@ -94,7 +94,7 @@ Access the app at: [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## 📄 Example JSON Output
+##  Example JSON Output
 ```json
 {
   "document_type": "employment_contract",
@@ -114,14 +114,14 @@ Access the app at: [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## 📝 Notes
+##  Notes
 - Pipeline is **intentionally minimal** to allow quick customization.
 - **Gemini RAG integration** scaffold included but inactive until you configure your API key.
 - Designed for **proof-of-concept** and **interview test** use.
 
 ---
 
-## 🔮 Future Integrations
+##  Future Integrations
 
 Planned enhancements include:
 - **Full Gemini RAG Integration**  
@@ -142,5 +142,5 @@ Planned enhancements include:
 
 ---
 
-## 📜 License
+##  License
 This project is provided as-is for educational and demonstration purposes.
