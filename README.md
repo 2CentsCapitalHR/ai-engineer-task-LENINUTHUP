@@ -94,25 +94,14 @@ Access the app at: [http://localhost:8501](http://localhost:8501)
 
 ---
 
-##  Example JSON Output
-```json
-{
-  "document_type": "employment_contract",
-  "red_flags": [
-    {
-      "section": "Termination Clause",
-      "issue": "No notice period specified",
-      "recommendation": "Add a minimum notice period to comply with ADGM employment regulations"
-    }
-  ],
-  "checklist_results": {
-    "company_name_present": true,
-    "signature_present": false
-  }
-}
-```
+##  Output
+<img width="630" height="399" alt="Screenshot 2025-08-11 181034" src="https://github.com/user-attachments/assets/737d8092-c1a3-40cd-8b00-1e3154200f6f" />
 
----
+<img width="767" height="484" alt="Screenshot 2025-08-11 181109" src="https://github.com/user-attachments/assets/7bc7374e-5080-40fc-ae61-3ec3e198ea5d" />
+
+<img width="725" height="580" alt="Screenshot 2025-08-11 181136" src="https://github.com/user-attachments/assets/6f568879-5014-4e9b-ad07-5673ff37b801" />
+
+<img width="782" height="372" alt="Screenshot 2025-08-11 181150" src="https://github.com/user-attachments/assets/a7e4786c-2b75-43f5-8dd7-7db7e6b4b45a" />
 
 ##  Notes
 - Pipeline is **intentionally minimal** to allow quick customization.
